@@ -1,0 +1,131 @@
+body{
+    margin: 3px;
+    padding: 0px;
+}
+
+
+
+/*-------------------- Complementos al Booptrasp --------------------*/
+
+.navbar{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 999;
+    width: 100%;
+}
+
+/*-------------------- Diseños propios --------------------*/
+nav{
+    box-shadow: 1px 3px 5px rgb(193, 191, 191);
+}
+
+main{
+    margin-top: 90px;
+}
+
+#logo{
+    height: 50px;
+}
+
+.mostrar{
+    display: block;
+}
+
+.borde{
+    border: 1px solid black;
+}
+
+.bg-gris{
+    background-color: #F8F9FA;
+}
+
+.bg-planta{
+    background-color: #9BCC50;
+    color: black;
+}
+
+.bg-oscuro{
+    background-color: rgb(50, 48, 48);
+    color: white;
+}
+
+.bg-veneno{
+    background-color: #B97FC9;
+    color: white;
+}
+
+.bg-fuego{
+    background-color: #FD7D24;
+    color: white;
+}
+
+.bg-agua{
+    background-color: #4592C4;
+    color: white;
+}
+
+.bg-bicho{
+    background-color: #729F3F;
+    color: white;
+}
+
+.bg-volador{
+    background: linear-gradient(#3DC7EF, #BDB9B8);
+    color: black;
+}
+
+.bg-normal{
+    background-color: #A4ACAF;
+    color: black;
+}
+
+.bg-electrico{
+    background-color: #EED535;
+    color: black;
+}
+
+.bg-tierra{
+    background: linear-gradient(#F7DE3F, #AB9842);;
+    color: black;
+}
+
+.bg-hada{
+    background-color: #FDB9E9;
+}
+
+.bg-lucha{
+    background-color: #D56723;
+    color: white;
+}
+
+.bg-psiquico{
+    background-color: #F366B9;
+    color: white;
+}
+
+.bg-roca{
+    background-color: #A38C21;
+    color: white;
+}
+
+.bg-fantasma{
+    background-color: #7B62A3;
+    color: white;
+}
+
+.bg-hielo{
+    background-color: #51C4E7;
+    color: black;
+}
+
+.bg-dragon{
+    background: linear-gradient(#53A4CF, #F16E57);;
+    color: black;
+}
+
+.bg-acero{
+    background-color: #9EB7B8;
+    color: black;
+}
